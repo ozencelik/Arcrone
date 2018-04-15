@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "619218810808",
+    "firebase_url": "https://xxxx-5fa91.firebaseio.com",
+    "project_id": "xxxx-5fa91",
+    "storage_bucket": "xxxx-5fa91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619218810808:android:9ba611252af0d760",
+        "android_client_info": {
+          "package_name": "com.example.betuldemirci.xxxx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619218810808-1uvb9sge7q0kgj4u9j6uafmovufv1pmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7kA9XHDvUEGBBnzHWIK0XP1le7QCiRP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
